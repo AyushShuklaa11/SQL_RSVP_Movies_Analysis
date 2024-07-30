@@ -1,5 +1,4 @@
 # SQL_RSVP_Movies_Analysis
-# SQL RSVP Movies Analysis
 
 ## Project Overview
 
